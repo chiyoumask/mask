@@ -248,20 +248,27 @@ http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.
 https://php.ntnas.top/api/cqyx.php?id=yunnanSD
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="重庆",重庆新闻
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
 https://php.ntnas.top/api/cqyx.php?id=CQTVNewsHD
 #EXTINF:-1 tvg-id="社会与法" tvg-name="社会与法" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/职教频道.png" group-title="重庆",社会与法频道
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
 https://php.ntnas.top/api/cqyx.php?id=CQTVTrendyHD
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实科教.png" group-title="重庆",影视频道
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
 https://php.ntnas.top/api/cqyx.php?id=cqyingshiHD
 #EXTINF:-1 tvg-id="时尚生活" tvg-name="时尚生活" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/卡酷少儿.png" group-title="重庆",时尚生活
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
 https://php.ntnas.top/api/cqyx.php?id=cqssgwHD
 #EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实人文.png" group-title="重庆",文体娱乐
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
 https://php.ntnas.top/api/cqyx.php?id=cqwtylHD
 #EXTINF:-1 tvg-id="新农村" tvg-name="新农村" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方影视.png" group-title="重庆",新农村
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
 https://php.ntnas.top/api/cqyx.php?id=cqggncHD
 #EXTINF:-1 tvg-id="少儿频道" tvg-name="少儿频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育.png" group-title="重庆",少儿频道
 https://php.ntnas.top/api/cqyx.php?id=cqseHD
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 https://php.ntnas.top/api/cqyx.php?id=CQTVkejiaoHD
 #EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海都市.png" group-title="重庆",重广融媒
 https://php.ntnas.top/api/cqyx.php?id=cqrongmei
