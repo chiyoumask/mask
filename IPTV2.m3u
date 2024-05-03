@@ -104,26 +104,24 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw434828587_188325560/ott.
 http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/51/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16.png" group-title="央视",CCTV-16
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
 https://php.ntnas.top/api/cqyx.php?id=cctv16HD
-http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17.png" group-title="央视",CCTV-17
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cctv17HD
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236190/1.m3u8?HlsProfileId=
-http://183.196.25.171:808/hls/93/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353299/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1668595278&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
+http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575303.m3u8
 #EXTINF:-1 tvg-id="CCTV4K超高清" tvg-name="CCTV4K超清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4k.png" group-title="央视",CCTV-4K
 http://[2409:8087:2001:20:2800:0:df6e:eb25]/ott.mobaibox.com/PLTV/4/224/3221228472/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8K超高清" tvg-name="CCTV8K超高清" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png" group-title="央视",CCTV-8K
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰香港.png" group-title="国际",凤凰香港
-http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
+http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰中文.png" group-title="国际",凤凰中文
-http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰资讯.png" group-title="国际",凤凰资讯
-http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",中天新闻
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=3
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
@@ -255,7 +253,7 @@ http://fangke.blueswords.com:9901/tsfile/live/1006_1.m3u8
 https://php.ntnas.top/api/cqyx.php?id=liaoningHD
 http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/重庆卫视.png" group-title="卫视",重庆卫视
-https://php.ntnas.top/api/cqyx.php?id=chongqingHD
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
 http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 http://fangke.blueswords.com:9901/tsfile/live/0113_1.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="龙江卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/龙江卫视.png" group-title="卫视",龙江卫视
@@ -270,8 +268,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东南卫视.png" group-title="卫视",东南卫视
-http://[2409:8087:1e03:21::13]:6610/cms001/ch00000090990000001201/index.m3u8?
-http://[2409:8087:2001:20:2800:0:df6e:eb0a]/wh7f454c46tw2900649569_-743777193/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8?icpid=3&RTS=1669701501&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000292501.m3u8
 http://fangke.blueswords.com:9901/tsfile/live/0143_1.m3u8
 https://php.ntnas.top/api/cqyx.php?id=dongnanHD
 #EXTINF:-1 tvg-id="91" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/青海卫视.png" group-title="卫视",青海卫视
