@@ -155,9 +155,9 @@ http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 tvg-id="TVB新闻台" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="国际", TVB新闻台
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
 https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="国际" ,台视新闻
