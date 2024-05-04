@@ -128,10 +128,13 @@ http://66.165.240.154:8080/live/ztylt01/hls.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 http://tv.redrainl.site:9500/live.m3u8?c=3
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",中天新闻2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",镜新闻
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",寰宇新闻台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
 #EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",东森财经
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://live.fanmingming.com/tv/FOXHD.png" group-title="国际",东森新闻
@@ -170,8 +173,20 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="华视综艺" tvg-name="华视综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="国际",华视综艺台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",环球纪录
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+#EXTINF:-1 tvg-id="朝日新闻" tvg-name="朝日新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",日本朝日新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 tvg-id="北海道新闻" tvg-name="北海道新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",日本北海道新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 tvg-id="关西新闻" tvg-name="关西新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",日本关西新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1 tvg-id="德国之声" tvg-name="德国之声" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",德国之声
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 tvg-id="ABC新闻" tvg-name="ABC新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",美国ABC新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",美国CNA新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 tvg-id="阿里郎放送" tvg-name="阿里郎放送" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",韩国阿里郎放送
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/北京卫视.png" group-title="卫视",北京卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
 http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
