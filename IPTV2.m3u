@@ -134,6 +134,7 @@ http://tv.redrainl.site:9500/live.m3u8?c=3
 https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1 tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",中天新闻2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
