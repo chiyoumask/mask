@@ -12,7 +12,7 @@
     },
     {
       "key": "AList",
-      "name": "💻影视狗",
+      "name": "超清4K",
       "type": 3,
       "api": "csp_AList",
       "searchable": 1,
@@ -23,10 +23,10 @@
       "ext": {
         "drives": [
           {
-            "name": "影视狗💻",
+            "name": "超清4K",
             "search": true,
             "searchable": true,
-            "server": "https://www.yingshi.dog/"
+            "server": "http://tptpwhc.tpddns.cn:1234"
           }
         ]
       }
@@ -61,7 +61,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.maolvys.com/"
+      "ext": "https://www.yingshi.dog/"
     },
     {
       "key": "Lib",
