@@ -130,13 +130,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",中天新闻
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-http://tv.redrainl.site:9500/live.m3u8?c=3
-https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+http://66.165.240.154:8080/live/ztylt01/hls.m3u81
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u81
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u81
 #EXTINF:-1 tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",中天新闻2台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u81
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u81
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
