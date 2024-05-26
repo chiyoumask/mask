@@ -363,10 +363,15 @@ https://epg.pw/stream/92cc442300c5880e302814cdf279ce0ee183c2dec3802661e8c7dd601d
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1 tvg-id="阿里郎放送" tvg-name="阿里郎放送" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",韩国阿里郎放送
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="爱达尔体育一台" tvg-name="爱达尔体育一台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="体育",爱达尔体育一台
+https://z88.ubtvfans.com/live/rx1/192/25fad1c69f8a5dbe9b513929e4a34728/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2729/e2631f44cff1829011b8335af4665421/index.m3u8
+#EXTINF:-1 tvg-id="爱达尔体育二台" tvg-name="爱达尔体育二台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="体育",爱达尔体育二台
+https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u8
+#EXTINF:-1 tvg-id="爱达尔体育三台" tvg-name="爱达尔体育三台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="体育",爱达尔体育三台
+https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
+#EXTINF:-1 tvg-id="爱达尔体育四台" tvg-name="爱达尔体育四台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="体育",爱达尔体育四台
+https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
 #EXTINF:-1 tvg-id="记录片之家" tvg-name="记录片之家" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="数字",记录片之家
 https://epg.pw/stream/2314b7b2346da9331a262a5e491faa0f670236f1058830bada9044140ef30da9.ctv
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/乐游频道.png" group-title="数字",CHC家庭影院
