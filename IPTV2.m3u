@@ -320,19 +320,19 @@ http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 tvg-id="TVB亚洲台" tvg-name="TVB亚洲台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="国际",TVB亚洲台
+#EXTINF:-1 tvg-id="TVB亚洲台" tvg-name="TVB亚洲台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="港台",TVB亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="国际" ,台视新闻
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="港台" ,台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际" ,台湾Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,台湾Plus
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-id="华视综艺" tvg-name="华视综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="国际",华视综艺台
+#EXTINF:-1 tvg-id="华视综艺" tvg-name="华视综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="港台",华视综艺台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 #EXTINF:-1 tvg-id="朝日新闻" tvg-name="朝日新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/环球纪录.png" group-title="国际",日本朝日新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
@@ -372,6 +372,18 @@ https://z88.ubtvfans.com/live/rx1/193/f01050f0321a89cddc7767ff7a972d75/index.m3u
 https://z88.ubtvfans.com/live/rx3/2722/b0560adafc9ad3997724565a440243db/index.m3u8
 #EXTINF:-1 tvg-id="爱达尔体育四台" tvg-name="爱达尔体育四台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="体育",爱达尔体育四台
 https://z88.ubtvfans.com/live/rx1/2820/8fa58ea004e930612ad1d0ed8726ebfc/index.m3u8
+#EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="体育",博斯运动一台
+https://z88.ubtvfans.com/live/rx1/379/3a3694d44eeb8fb3a641b7a7e1d1d010/index.m3u8
+#EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="体育",博斯运动二台
+https://z88.ubtvfans.com/live/rx1/380/c15a49fee0fae3e5678657de0f0b56fc/index.m3u8
+#EXTINF:-1 tvg-id="爱尔达娱乐台" tvg-name="爱尔达娱乐台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="娱乐",爱尔达娱乐台
+https://z88.ubtvfans.com/live/rx1/351/1db9ab4c9c436100d700384de733dd09/index.m3u8
+#EXTINF:-1 tvg-id="爱尔达综合台" tvg-name="爱尔达综合台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="娱乐",爱尔达综合台
+https://z88.ubtvfans.com/live/rx1/1137/455e0be7cd7ab0521eec0689b889ea28/index.m3u8
+#EXTINF:-1 tvg-id="中天综合台" tvg-name="中天综合台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="娱乐",中天综合台
+https://z88.ubtvfans.com/live/rx3/54/b8751095c9d94abc7d87c8593fad2300/index.m3u8
+#EXTINF:-1 tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="娱乐",中天娱乐台
+https://z88.ubtvfans.com/live/rx1/324/461220d54ade176ad23396b4c39a3fe4/index.m3u8
 #EXTINF:-1 tvg-id="记录片之家" tvg-name="记录片之家" tvg-logo="https://epg.112114.xyz/logo/纯享4K.png" group-title="数字",记录片之家
 https://epg.pw/stream/2314b7b2346da9331a262a5e491faa0f670236f1058830bada9044140ef30da9.ctv
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/乐游频道.png" group-title="数字",CHC家庭影院
