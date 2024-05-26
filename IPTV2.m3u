@@ -130,9 +130,9 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",中天新闻
-http://66.165.240.154:8080/live/ztylt01/hls.m3u81
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u81
-https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u81
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1 tvg-id="中天新闻2台" tvg-name="中天新闻2台" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",中天新闻2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u81
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u81
@@ -147,8 +147,12 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 #EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",东森财经
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",三立新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+http://125.227.210.55:8162/VideoInput/play.ts
+https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
 #EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="国际",新唐人亚太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
@@ -177,6 +181,7 @@ http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="国际" ,台湾Plus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="华视综艺" tvg-name="华视综艺" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国环球.png" group-title="国际",华视综艺台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
