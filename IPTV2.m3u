@@ -173,26 +173,11 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
 #EXTINF:-1 tvg-id="TVB新闻台" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台", TVB新闻台
-https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中视新闻HD.png" group-title="港台",中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",中天新闻
-http://194.87.101.118/live.m3u8?c=7
-http://66.165.240.154:8080/live/ztylt01/hls.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
-#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",中天亚洲台
-http://194.87.101.118/live.m3u8?c=3
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u81
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u81
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",镜新闻
 http://tv.redrainl.site:9500/live.m3u8?c=28
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
