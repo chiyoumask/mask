@@ -158,16 +158,6 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰香港.png" group-title="港台",凤凰香港
-http://113.64.145.195:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰中文.png" group-title="港台",凤凰中文
-http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-http://113.64.145.195:8081/hls/37/index.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰资讯.png" group-title="港台",凤凰资讯
-http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
-http://61.221.215.25:8800/hls/47/index.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东森新闻.png" group-title="港台",东森新闻
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
