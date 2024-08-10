@@ -1,238 +1,234 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=
-https://php.ntnas.top/api/cqyx.php?id=cctv1HD
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2.png" group-title="央视",CCTV-2
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?IAS
-https://php.ntnas.top/api/cqyx.php?id=cctv2HD
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV3.png" group-title="央视",CCTV-3
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=
-http://183.196.25.171:808/hls/75/index.m3u8
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=cctv3HD
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-https://php.ntnas.top/api/cqyx.php?id=cctv4HD
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId
-http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV4.png" group-title="央视",CCTV-4K
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5.png" group-title="央视",CCTV-5
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=cctv5HD
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV5+.png" group-title="央视",CCTV-5+
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV6.png" group-title="央视",CCTV-6
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
-https://php.ntnas.top/api/cqyx.php?id=cctv6HD
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV7.png" group-title="央视",CCTV-7
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb26]/wh7f454c46tw3984282630_1427246842/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8?icpid=3&RTS=1668594483&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
-https://php.ntnas.top/api/cqyx.php?id=cctv7HD
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/51/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV8.png" group-title="央视",CCTV-8
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=cctv8HD
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV9.png" group-title="央视",CCTV-9
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw4254168827_1850088835/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?icpid=3&RTS=1668594753&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-https://php.ntnas.top/api/cqyx.php?id=cctv9HD
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV10.png" group-title="央视",CCTV-10
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw30319478_-185824076/ott.mobaibox.com/PLTV/3/224/3221228286/index.m3u8?icpid=3&RTS=1668594824&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-https://php.ntnas.top/api/cqyx.php?id=cctv10HD
-http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV11.png" group-title="央视",CCTV-11
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cctv11HD
-http://[2409:8087:2001:20:2800:0:df6e:eb21]/wh7f454c46tw4254168827_1850088835/ott.mobaibox.com/PLTV/3/224/3221228303/index.m3u8?icpid=3&RTS=1668594753&from=40&popid=40&hms_devid=2290&prioritypopid=40&vqe=3
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV12.png" group-title="央视",CCTV-12
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cctv12HD
-http://183.196.25.171:808/hls/12/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw185877003_-533945400/ott.mobaibox.com/PLTV/3/224/3221228401/index.m3u8?icpid=3&RTS=1668594980&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV13.png" group-title="央视",CCTV-13
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw259647455_-1559913959/ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8?icpid=3&RTS=1668595054&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-https://php.ntnas.top/api/cqyx.php?id=CCTVNewsHD
-http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=
-http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV14.png" group-title="央视",CCTV-14
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cctvseHD
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/wh7f454c46tw340147088_1594094424/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8?icpid=3&RTS=1668595134&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
-http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/北京卫视.png" group-title="卫视",北京卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0126_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=beijingHD
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方卫视.png" group-title="卫视",东方卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw2542426131_1585848046/ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8?icpid=3&RTS=1668597336&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0122_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=shanghaiHD
-http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖南卫视.png" group-title="卫视",湖南卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001026/index.m3u8?
-http://fangke.blueswords.com:9901/tsfile/live/0124_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=hunanHD
-http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/浙江卫视.png" group-title="卫视",浙江卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0130_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=zhejiangHD
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2983110475_-1591539074/ott.mobaibox.com/PLTV/3/224/3221228097/index.m3u8?icpid=3&RTS=1668597777&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0107_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=jiangsuHD
-http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江西卫视.png" group-title="卫视",江西卫视
-http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000294102.m3u8
-http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000294101.m3u8
-https://php.ntnas.top/api/cqyx.php?id=jiangxiHD
-#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河北卫视.png" group-title="卫视",河北卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1698524218_988816054/ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8?icpid=3&RTS=1669700299&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河南卫视.png" group-title="卫视",河南卫视
-http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000296102.m3u8
-http://183.204.13.195/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296101.m3u8
-http://183.204.13.195/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000296102.m3u8
-#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/海南卫视.png" group-title="卫视",海南卫视
-http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000291502.m3u8
-http://183.204.13.195/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291502.m3u8
-http://183.204.13.195/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/深圳卫视.png" group-title="卫视",深圳卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3025923625_628894334/ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8?icpid=3&RTS=1668597820&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0121_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=shenzhenHD
-#EXTINF:-1 tvg-id="45" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖北卫视.png" group-title="卫视",湖北卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3059146177_-1525708880/ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8?icpid=3&RTS=1668597853&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/1004_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=hubeiSD
-http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/四川卫视.png" group-title="卫视",四川卫视
-https://php.ntnas.top/api/cqyx.php?id=sichuanHD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/天津卫视.png" group-title="卫视",天津卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=tianjinHD
-http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw2730715388_788631706/ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8?icpid=3&RTS=1668597525&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0114_1.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/安徽卫视.png" group-title="卫视",安徽卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=anhuiSD
-http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw2802330256_375747539/ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8?icpid=3&RTS=1668597596&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0135_1.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/山东卫视.png" group-title="卫视",山东卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw2848465480_1677095697/ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8?icpid=3&RTS=1668597642&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0127_1.m3u8
-http://hlsbkmgsplive.miguvideo.com/wd-shandonghd-1200/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广东卫视.png" group-title="卫视",广东卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=guangdongHD
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw2917484419_-1632335828/ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8?icpid=3&RTS=1668597711&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广西卫视.png" group-title="卫视",广西卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-http://hlsbkmgsplive.miguvideo.com/wd-guangxiwssd-600/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/贵州卫视.png" group-title="卫视",贵州卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=guizhouHD
-http://[2409:8087:2001:20:2800:0:df6e:eb08]/wh7f454c46tw2087544744_109645303/ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8?icpid=3&RTS=1669700688&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0137_1.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/1006_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=liaoningHD
-http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV15.png" group-title="央视",CCTV-15
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV16.png" group-title="央视",CCTV-16
+http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV17.png" group-title="央视",CCTV-17
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/重庆卫视.png" group-title="卫视",重庆卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
-http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-http://fangke.blueswords.com:9901/tsfile/live/0113_1.m3u8
-#EXTINF:-1 tvg-id="46" tvg-name="龙江卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/龙江卫视.png" group-title="卫视",龙江卫视
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=heilongjiangHD
-http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8?icpid=3&RTS=1668600490&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/吉林卫视.png" group-title="卫视",吉林卫视
-https://php.ntnas.top/api/cqyx.php?id=jilinHD
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1874077489_789689702/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8?icpid=3&RTS=1669700475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/三沙卫视.png" group-title="卫视",三沙卫视
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/北京卫视.png" group-title="卫视",北京卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方卫视.png" group-title="卫视",东方卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖南卫视.png" group-title="卫视",湖南卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="45" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/湖北卫视.png" group-title="卫视",湖北卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/浙江卫视.png" group-title="卫视",浙江卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江苏卫视.png" group-title="卫视",江苏卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江西卫视.png" group-title="卫视",江西卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河北卫视.png" group-title="卫视",河北卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/河南卫视.png" group-title="卫视",河南卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/深圳卫视.png" group-title="卫视",深圳卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/四川卫视.png" group-title="卫视",四川卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/天津卫视.png" group-title="卫视",天津卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/安徽卫视.png" group-title="卫视",安徽卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/山东卫视.png" group-title="卫视",山东卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广东卫视.png" group-title="卫视",广东卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/广西卫视.png" group-title="卫视",广西卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东南卫视.png" group-title="卫视",东南卫视
-http://183.204.13.185/mmst.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/cctv/2000292501.m3u8
-http://fangke.blueswords.com:9901/tsfile/live/0143_1.m3u8
-https://php.ntnas.top/api/cqyx.php?id=dongnanHD
-#EXTINF:-1 tvg-id="91" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/青海卫视.png" group-title="卫视",青海卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/新疆卫视.png" group-title="卫视",新疆卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/贵州卫视.png" group-title="卫视",贵州卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/云南卫视.png" group-title="卫视",云南卫视
-https://php.ntnas.top/api/cqyx.php?id=yunnanSD
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/龙江卫视.png" group-title="卫视",龙江卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/吉林卫视.png" group-title="卫视",吉林卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="51" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="91" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/青海卫视.png" group-title="卫视",青海卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/新疆卫视.png" group-title="卫视",新疆卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="重庆新闻" tvg-name="重庆新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中国教育.png" group-title="重庆",重庆新闻
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=CQTVNewsHD
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="社会与法" tvg-name="社会与法" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/职教频道.png" group-title="重庆",社会与法频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=CQTVTrendyHD
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="重庆影视" tvg-name="重庆影视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实科教.png" group-title="重庆",影视频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cqyingshiHD
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="时尚生活" tvg-name="时尚生活" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/卡酷少儿.png" group-title="重庆",时尚生活
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cqssgwHD
+rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="重庆文体娱乐" tvg-name="重庆文体娱乐" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/纪实人文.png" group-title="重庆",文体娱乐
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cqwtylHD
+rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="新农村" tvg-name="新农村" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东方影视.png" group-title="重庆",新农村
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=cqggncHD
+rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="少儿频道" tvg-name="少儿频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育.png" group-title="重庆",少儿频道
-https://php.ntnas.top/api/cqyx.php?id=cqseHD
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-https://php.ntnas.top/api/cqyx.php?id=CQTVkejiaoHD
-#EXTINF:-1 tvg-id="重广融媒" tvg-name="重广融媒" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海都市.png" group-title="重庆",重广融媒
-https://php.ntnas.top/api/cqyx.php?id=cqrongmei
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/金鹰纪实.png" group-title="重庆",金鹰纪实
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001230/index.m3u8?
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/金鹰卡通.png" group-title="重庆",金鹰卡通
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰香港.png" group-title="港台",凤凰香港
+http://113.64.145.195:8081/hls/38/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰中文.png" group-title="港台",凤凰中文
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+http://113.64.145.195:8081/hls/37/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/凤凰资讯.png" group-title="港台",凤凰资讯
+http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+http://61.221.215.25:8800/hls/47/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+http://183.204.13.237/cee7354084e908e7d71a99f88ecd0c61.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东森新闻.png" group-title="港台",东森新闻
+http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",东森财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="港台",三立新闻
+http://125.227.210.55:8162/VideoInput/play.ts
+https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
+https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="港台",三立iNEWS
+https://z88.ubtvfans.com/live/rx5/6/6e5572a27a0339a2f1a977c82c1206fd/index.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+https://epg.pw/stream/de7b21f59593fe8ac780f1058eee1de51cadc9d3a6a6f79eb1e6c95bcbdc4087.m3u8
+#EXTINF:-1 tvg-id="TVB新闻台" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台", TVB新闻台
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中视新闻HD.png" group-title="港台",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",中天新闻
+http://194.87.101.118/live.m3u8?c=7
+http://66.165.240.154:8080/live/ztylt01/hls.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+https://ythls.armelin.one/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
+#EXTINF:-1 tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",中天亚洲台
+http://194.87.101.118/live.m3u8?c=3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u81
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV87.m3u81
+#EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",镜新闻
+http://tv.redrainl.site:9500/live.m3u8?c=28
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",寰宇新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",寰宇财经台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+#EXTINF:-1 tvg-id="新唐人亚太" tvg-name="新唐人亚太" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="港台",新唐人亚太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="港台",民视新闻
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 tvg-id="TVB亚洲台" tvg-name="TVB亚洲台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="港台",TVB亚洲台
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="港台" ,台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,台湾Plus
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
