@@ -190,11 +190,7 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="港台",民视新闻
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 tvg-id="TVB亚洲台" tvg-name="TVB亚洲台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="港台",TVB亚洲台
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
