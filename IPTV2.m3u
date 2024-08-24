@@ -156,6 +156,34 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,综合频道
+http://175.152.138.74:6066/udp/239.93.0.16:5140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,经济频道
+http://175.152.138.74:6066/udp/239.93.0.17:1239
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,生活频道
+http://175.152.138.74:6066/udp/239.93.0.18:1238
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,影视频道
+http://175.152.138.74:6066/udp/239.93.0.19:1250
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,公共频道
+http://175.152.138.74:6066/udp/239.93.1.231:5140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,I成都
+http://175.152.138.74:6066/udp/239.93.1.104:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川新闻频道
+http://175.152.138.74:6066/udp/239.93.0.47:5140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川经济频道
+http://175.152.138.74:6066/udp/239.93.1.102:5140
+http://175.152.138.74:6066/udp/239.93.1.16:5140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川文旅频道
+http://175.152.138.74:6066/udp/239.93.1.101:5140
+http://175.152.138.74:6066/udp/239.93.1.20:5140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川乡村频道
+http://175.152.138.74:6066/udp/239.93.0.52:5140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,凤凰资讯台
+http://175.152.138.74:6066/udp/239.93.0.118:2191
+http://175.152.138.74:6066/udp/239.93.1.4:2191
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,凤凰看中文台
+http://175.152.138.74:6066/udp/239.93.0.162:2192
+http://175.152.138.74:6066/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东森新闻.png" group-title="港台",东森新闻
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
