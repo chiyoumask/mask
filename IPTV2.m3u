@@ -157,33 +157,20 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,综合频道
-http://175.152.138.74:6066/udp/239.93.0.16:5140
+https://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=d993851bee752cfd8ab1506f86504ebf&wsTime=66caf6a8
+https://cdn1.cditv.cn/cdtv1/CDTV1.flv/playlist.m3u8?wsSecret=6ea984f146ebfc6b479dd8743f007ac6&wsTime=66caf63c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,经济频道
-http://175.152.138.74:6066/udp/239.93.0.17:1239
+https://cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=208ecd2e1700cd8ae6cb0454bca246fb&wsTime=66caf748
+https://cdn1.cditv.cn/cdtv2/CDTV2.flv/playlist.m3u8?wsSecret=093335d1849b63e4fc707e1539f54349&wsTime=66caf710
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,生活频道
-http://175.152.138.74:6066/udp/239.93.0.18:1238
+https://cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=7d019542bf9dace778d10bb9518541f1&wsTime=66caf7af
+https://cdn1.cditv.cn/cdtv3/CDTV3.flv/playlist.m3u8?wsSecret=7410aeac65618c304348af458bf8bf06&wsTime=66caf79b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,影视频道
-http://175.152.138.74:6066/udp/239.93.0.19:1250
+https://cdn1.cditv.cn/cdtv4high/CDTV4High.flv/playlist.m3u8?wsSecret=ad5747ad80806e30062d0629de91728f&wsTime=66caf7d3
+https://cdn1.cditv.cn/cdtv4/CDTV4.flv/playlist.m3u8?wsSecret=cd4e85546e6f012526658ea1b3f46b4a&wsTime=66caf7c6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,公共频道
-http://175.152.138.74:6066/udp/239.93.1.231:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,I成都
-http://175.152.138.74:6066/udp/239.93.1.104:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川新闻频道
-http://175.152.138.74:6066/udp/239.93.0.47:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川经济频道
-http://175.152.138.74:6066/udp/239.93.1.102:5140
-http://175.152.138.74:6066/udp/239.93.1.16:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川文旅频道
-http://175.152.138.74:6066/udp/239.93.1.101:5140
-http://175.152.138.74:6066/udp/239.93.1.20:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,四川乡村频道
-http://175.152.138.74:6066/udp/239.93.0.52:5140
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,凤凰资讯台
-http://175.152.138.74:6066/udp/239.93.0.118:2191
-http://175.152.138.74:6066/udp/239.93.1.4:2191
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,凤凰看中文台
-http://175.152.138.74:6066/udp/239.93.0.162:2192
-http://175.152.138.74:6066/udp/239.93.1.9:2192
+https://cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=98d0e3dd2542ae2d3e56ebd54e9450c3&wsTime=66caf7f8
+https://cdn1.cditv.cn/cdtv5/CDTV5.flv/playlist.m3u8?wsSecret=fec157147bb52f9179d4c7f0e0ff4107&wsTime=66caf7e5
 #EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东森新闻.png" group-title="港台",东森新闻
 http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
