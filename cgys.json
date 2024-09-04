@@ -1,0 +1,769 @@
+{
+  "sites": [
+    {
+      "key": "cgys",
+      "name": "草根影视",
+      "type": 1,
+      "api": "http://ys.vioiv.tk/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "国产电视剧",
+        "港台电视剧",
+        "欧美电视剧",
+        "日本电视剧",
+        "韩国电视剧",
+        "泰国电视剧",
+        "内地综艺",
+        "港台综艺",
+        "日韩综艺"
+      ]
+    }
+  ],
+  "lives": [
+    {
+      "group": "央视频道",
+      "channels": [
+        {
+          "name": "CCTV1",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV2",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000295?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV3",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000302?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV4",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000342?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV5",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000304?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV5+",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000230?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV6",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000305?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV7",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000290?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV8",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000307?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV9",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000294?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV10",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000293?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV11",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000389?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV12",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000292?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV13",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000387?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV14",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV15",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "CCTV16",
+          "urls": [
+            "http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575402.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV17",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid="
+          ]
+        }
+      ]
+    },
+    {
+      "group": "卫视频道",
+      "channels": [
+        {
+          "name": "重庆卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "北京卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "天津卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "湖南卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000228?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "湖北卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "浙江卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "江苏卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "江西卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000378?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "河北卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000192?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "深圳卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "广东卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000191?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "东南卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "四川卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "贵州卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "云南卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "安徽卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "山东卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid=",
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid= rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000261?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "辽宁卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "黑龙江卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000227?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "内蒙古卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000184?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "青海卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "新疆卫视",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid="
+          ]
+        }
+      ]
+    },
+    {
+      "group": "重庆频道",
+      "channels": [
+        {
+          "name": "新闻频道",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "社会与法",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "影视频道",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "时尚生活",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=",
+            "rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "文体娱乐",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=",
+            "rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "新农村",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=",
+            "rtsp://123.147.113.84:8089/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid="
+          ]
+        },
+        {
+          "name": "科教频道",
+          "urls": [
+            "rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=",
+            "rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid="
+          ]
+        }
+      ]
+    },
+    {
+      "group": "港台频道",
+      "channels": [
+        {
+          "name": "东森新闻",
+          "urls": [
+            "http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8",
+            "https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8",
+            "http://37.27.111.214:8080/live/20/hls.m3u8"
+          ]
+        },
+        {
+          "name": "东森财经",
+          "urls": [
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8"
+          ]
+        },
+        {
+          "name": "TVB新闻",
+          "urls": [
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8",
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8"
+          ]
+        },
+        {
+          "name": "TVB亚洲台",
+          "urls": [
+            "http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8",
+            "http://38.64.72.148/hls/modn/list/4005/playlist.m3u8",
+            "http://38.64.72.148/hls/modn/list/4013/playlist.m3u8",
+            "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "三立新闻",
+          "urls": [
+            "http://125.227.210.55:8162/VideoInput/play.ts",
+            "https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8",
+            "https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8",
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8"
+          ]
+        },
+        {
+          "name": "民视新闻",
+          "urls": [
+            "http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8",
+            "http://37.27.111.214:8080/live/6/hls.m3u8"
+          ]
+        },
+        {
+          "name": "民视第一台",
+          "urls": [
+            "http://37.27.111.214:8080/live/4/hls.m3u8"
+          ]
+        },
+        {
+          "name": "民视台湾",
+          "urls": [
+            "http://37.27.111.214:8080/live/5/hls.m3u8"
+          ]
+        },
+        {
+          "name": "台视新闻",
+          "urls": [
+            "http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8"
+          ]
+        },
+        {
+          "name": "华视新闻",
+          "urls": [
+            "http://37.27.111.214:8080/live/8/hls.m3u8"
+          ]
+        },
+        {
+          "name": "中视新闻",
+          "urls": [
+            "http://37.27.111.214:8080/live/7/hls.m3u8",
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8"
+          ]
+        },
+        {
+          "name": "中视经典",
+          "urls": [
+            "http://37.27.111.214:8080/live/47/hls.m3u8"
+          ]
+        },
+        {
+          "name": "中视菁采",
+          "urls": [
+            "http://37.27.111.214:8080/live/48/hls.m3u8"
+          ]
+        },
+        {
+          "name": "中天海外",
+          "urls": [
+            "http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8",
+            "http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8",
+            "http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8"
+          ]
+        },
+        {
+          "name": "镜新闻",
+          "urls": [
+            "http://37.27.111.214:8080/live/62/hls.m3u8",
+            "http://tv.redrainl.site:9500/live.m3u8?c=28"
+          ]
+        },
+        {
+          "name": "寰宇新闻台",
+          "urls": [
+            "http://37.27.111.214:8080/live/63/hls.m3u8",
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8",
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8"
+          ]
+        },
+        {
+          "name": "寰宇财经台",
+          "urls": [
+            "http://37.27.111.214:8080/live/65/hls.m3u8",
+            "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8"
+          ]
+        }
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://xxx.xxx?jx="
+    }
+  ],
+  "flags": [
+    "youku",
+    "qq",
+    "iqiyi",
+    "qiyi",
+    "letv",
+    "sohu",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "wasu"
+  ],
+  "ijk": [
+    {
+      "group": "软解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "group": "硬解码",
+      "options": [
+        {
+          "category": 4,
+          "name": "opensles",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "overlay-format",
+          "value": "842225234"
+        },
+        {
+          "category": 4,
+          "name": "framedrop",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "soundtouch",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "start-on-prepared",
+          "value": "1"
+        },
+        {
+          "category": 1,
+          "name": "http-detect-range-support",
+          "value": "0"
+        },
+        {
+          "category": 1,
+          "name": "fflags",
+          "value": "fastseek"
+        },
+        {
+          "category": 2,
+          "name": "skip_loop_filter",
+          "value": "48"
+        },
+        {
+          "category": 4,
+          "name": "reconnect",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "max-buffer-size",
+          "value": "5242880"
+        },
+        {
+          "category": 4,
+          "name": "enable-accurate-seek",
+          "value": "0"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
+        },
+        {
+          "category": 4,
+          "name": "mediacodec-hevc",
+          "value": "1"
+        }
+      ]
+    }
+  ],
+  "ads": [
+    "mimg.0c1q0l.cn",
+    "www.googletagmanager.com",
+    "www.google-analytics.com",
+    "mc.usihnbcq.cn",
+    "mg.g1mm3d.cn",
+    "mscs.svaeuzh.cn",
+    "cnzz.hhttm.top",
+    "tp.vinuxhome.com",
+    "cnzz.mmstat.com",
+    "www.baihuillq.com",
+    "s23.cnzz.com",
+    "z3.cnzz.com",
+    "c.cnzz.com",
+    "stj.v1vo.top",
+    "z12.cnzz.com",
+    "img.mosflower.cn",
+    "tips.gamevvip.com",
+    "ehwe.yhdtns.com",
+    "xdn.cqqc3.com",
+    "www.jixunkyy.cn",
+    "sp.chemacid.cn",
+    "hm.baidu.com",
+    "s9.cnzz.com",
+    "z6.cnzz.com",
+    "um.cavuc.com",
+    "mav.mavuz.com",
+    "wofwk.aoidf3.com",
+    "z5.cnzz.com",
+    "xc.hubeijieshikj.cn",
+    "tj.tianwenhu.com",
+    "xg.gars57.cn",
+    "k.jinxiuzhilv.com",
+    "cdn.bootcss.com",
+    "ppl.xunzhuo123.com",
+    "xomk.jiangjunmh.top",
+    "img.xunzhuo123.com",
+    "z1.cnzz.com",
+    "s13.cnzz.com",
+    "xg.huataisangao.cn",
+    "z7.cnzz.com",
+    "xg.huataisangao.cn",
+    "z2.cnzz.com",
+    "s96.cnzz.com",
+    "q11.cnzz.com",
+    "thy.dacedsfa.cn",
+    "xg.whsbpw.cn",
+    "s19.cnzz.com",
+    "z8.cnzz.com",
+    "s4.cnzz.com",
+    "f5w.as12df.top",
+    "ae01.alicdn.com",
+    "www.92424.cn",
+    "k.wudejia.com",
+    "vivovip.mmszxc.top",
+    "qiu.xixiqiu.com",
+    "cdnjs.hnfenxun.com",
+    "cms.qdwght.com"
+  ]
+}
