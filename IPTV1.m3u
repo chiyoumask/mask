@@ -156,13 +156,6 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东森新闻.png" group-title="港台",东森新闻
-https://raw.githubusercontent.com/chiyoumask/mask/refs/heads/master/TVDS.m3u8
-#EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",东森财经
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV02.m3u8
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="港台",三立新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV01.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV32.m3u8
 #EXTINF:-1 tvg-id="TVB新闻台" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台", TVB新闻台
 http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4027/chunklist0.m3u8
@@ -179,16 +172,3 @@ http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4010/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-#EXTINF:-1 tvg-id="中天海外" tvg-name="中天海外" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="港台",寰宇新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV02.m3u8
-#EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",镜新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV70.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",寰宇财经台
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV85.m3u8
-#EXTINF:-1 tvg-id="TVB亚洲台" tvg-name="TVB亚洲台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="港台",凤凰资讯台
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV43.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,中视新闻
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV9.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,JapaNews24
-https://raw.githubusercontent.com/ChiSheng9/iptv/refs/heads/master/TV15.m3u8
