@@ -156,83 +156,19 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,综合频道
-https://cdn1.cditv.cn/cdtv1high/CDTV1High.flv/playlist.m3u8?wsSecret=d993851bee752cfd8ab1506f86504ebf&wsTime=66caf6a8
-https://cdn1.cditv.cn/cdtv1/CDTV1.flv/playlist.m3u8?wsSecret=6ea984f146ebfc6b479dd8743f007ac6&wsTime=66caf63c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,经济频道
-https://cdn1.cditv.cn/cdtv2high/CDTV2High.flv/playlist.m3u8?wsSecret=208ecd2e1700cd8ae6cb0454bca246fb&wsTime=66caf748
-https://cdn1.cditv.cn/cdtv2/CDTV2.flv/playlist.m3u8?wsSecret=093335d1849b63e4fc707e1539f54349&wsTime=66caf710
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,生活频道
-https://cdn1.cditv.cn/cdtv3high/CDTV3High.flv/playlist.m3u8?wsSecret=7d019542bf9dace778d10bb9518541f1&wsTime=66caf7af
-https://cdn1.cditv.cn/cdtv3/CDTV3.flv/playlist.m3u8?wsSecret=7410aeac65618c304348af458bf8bf06&wsTime=66caf79b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,影视频道
-https://cdn1.cditv.cn/cdtv4high/CDTV4High.flv/playlist.m3u8?wsSecret=ad5747ad80806e30062d0629de91728f&wsTime=66caf7d3
-https://cdn1.cditv.cn/cdtv4/CDTV4.flv/playlist.m3u8?wsSecret=cd4e85546e6f012526658ea1b3f46b4a&wsTime=66caf7c6
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="成都" ,公共频道
-https://cdn1.cditv.cn/cdtv5high/CDTV5High.flv/playlist.m3u8?wsSecret=98d0e3dd2542ae2d3e56ebd54e9450c3&wsTime=66caf7f8
-https://cdn1.cditv.cn/cdtv5/CDTV5.flv/playlist.m3u8?wsSecret=fec157147bb52f9179d4c7f0e0ff4107&wsTime=66caf7e5
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/东森新闻.png" group-title="港台",东森新闻
-http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
-https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
-http://37.27.111.214:8080/live/20/hls.m3u8
-#EXTINF:-1 tvg-id="东森财经" tvg-name="东森财经" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",东森财经
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="港台",三立新闻
-http://125.227.210.55:8162/VideoInput/play.ts
-https://z88.ubtvfans.com/live/rx2/43/a2a42f6d385474b87e182c306a9c370d/index.m3u8
-https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 #EXTINF:-1 tvg-id="TVB新闻台" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台", TVB新闻台
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4027/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4027/chunklist1.m3u8
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="港台",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-http://37.27.111.214:8080/live/6/hls.m3u8
-#EXTINF:-1 tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="港台",民视第一台
-http://37.27.111.214:8080/live/4/hls.m3u8
-#EXTINF:-1 tvg-id="民视台湾" tvg-name="民视台湾" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="港台",民视台湾
-http://37.27.111.214:8080/live/5/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="港台" ,台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,华视新闻
-http://37.27.111.214:8080/live/8/hls.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中视新闻HD.png" group-title="港台",中视新闻
-http://37.27.111.214:8080/live/7/hls.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,中视经典
-http://37.27.111.214:8080/live/47/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,中视菁采
-http://37.27.111.214:8080/live/48/hls.m3u8
-#EXTINF:-1 tvg-id="中天海外" tvg-name="中天海外" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="港台",中天海外
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",镜新闻
-http://37.27.111.214:8080/live/62/hls.m3u8
-http://tv.redrainl.site:9500/live.m3u8?c=28
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",寰宇新闻台
-http://37.27.111.214:8080/live/63/hls.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="港台",寰宇财经台
-http://37.27.111.214:8080/live/65/hls.m3u8
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
-#EXTINF:-1 tvg-id="TVB亚洲台" tvg-name="TVB亚洲台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="港台",TVB亚洲台
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,台湾Plus
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,原住民台
-http://37.27.111.214:8080/live/2/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,历史频道
-http://37.27.111.214:8080/live/30/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,自然频道
-http://37.27.111.214:8080/live/84/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,记实频道
-http://37.27.111.214:8080/live/92/hls.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="港台" ,智林体育
-http://37.27.111.214:8080/live/77/hls.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="港台" ,台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中视新闻HD.png" group-title="港台",中旺新闻
+http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4010/chunklist0.m3u8
+http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
