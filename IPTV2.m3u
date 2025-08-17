@@ -156,19 +156,5 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="TVB新闻台" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台", TVB新闻台
-http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4027/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4027/chunklist1.m3u8
-#EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="港台",民视新闻
-http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="港台" ,台视新闻
-http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/中视新闻HD.png" group-title="港台",中旺新闻
-http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4010/chunklist0.m3u8
-http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
+#EXTINF:-1 tvg-id="TVB新闻台" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台", 东森新闻台
+https://raw.githubusercontent.com/chiyoumask/mask/refs/heads/master/TVDS.m3u8
