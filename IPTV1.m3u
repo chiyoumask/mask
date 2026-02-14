@@ -196,3 +196,7 @@ https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a57
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ctizhonghe
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",中天娱乐
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ctient
+#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",民視HD
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ftvhd_taiwan
+#EXTINF:-1 tvg-id="华视HD" tvg-name="华视HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",华视HD
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ctshd_twn
