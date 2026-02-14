@@ -156,25 +156,43 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="TVB新闻" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",TVB新闻
+#EXTINF:-1 tvg-id="TVB新闻" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",TVB新闻
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=tvbs_n
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",东森新闻
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",东森新闻
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ettvnews
-#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",年代新聞
+#EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",年代新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=niandainews_twn
-#EXTINF:-1 tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",民視新聞
+#EXTINF:-1 tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",民視新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ftvnew_taiwan
-#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",台視新聞
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",台視新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ttvnews_twn
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",中視新聞
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",中視新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=zhongshinews_twn
-#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",寰宇新聞
+#EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",寰宇新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=huanyuxinwen_twn
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",三立新聞
-https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=inews_twn
-#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",非凡新聞
+#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",三立新聞
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=sanlitaiwan
+#EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",非凡新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=feifannews_twn
-#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",中天新聞
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",中天新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ctinews
+#EXTINF:-1 tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",東森財經
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ettvcaijing_twn
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",东森综合
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ettvzhonghe
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",TVBS歡樂台
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=tvbshuanle_twn
+#EXTINF:-1 tvg-id="台视TTV" tvg-name="台视TTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",台视TTV
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ttv_taiwan
+#EXTINF:-1 tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",综合台
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ttvzhonghe
+#EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",三立台湾
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=sanlitaiwan
+#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",三立综合
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=sanlizhonghe
+#EXTINF:-1 tvg-id="三立都会" tvg-name="三立都会" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",三立都会
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=sanlidouhui_twn
+#EXTINF:-1 tvg-id="中天綜合" tvg-name="中天綜合" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",中天綜合
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ctizhonghe
 #EXTINF:-1 tvg-id="東森財經" tvg-name="東森財經" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="港台",東森財經
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ettvcaijing_twn
