@@ -200,3 +200,11 @@ https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a57
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="华视HD" tvg-name="华视HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",华视HD
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ctshd_twn
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="体育",纬来体育台
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=videolandsport
+#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="体育",Astro W-Sports
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=go_assp5
+#EXTINF:-1 tvg-id="WWE" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="体育",WWE
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=Wwe
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="体育",Arena
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=Arena
