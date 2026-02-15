@@ -171,7 +171,7 @@ https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a57
 #EXTINF:-1 tvg-id="寰宇新聞" tvg-name="寰宇新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",寰宇新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",三立新聞
-https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=sanlitaiwan
+https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=inews_twn
 #EXTINF:-1 tvg-id="非凡新聞" tvg-name="非凡新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",非凡新聞
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=feifannews_twn
 #EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",中天新聞
@@ -184,7 +184,7 @@ https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a57
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="台视TTV" tvg-name="台视TTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",台视TTV
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ttv_taiwan
-#EXTINF:-1 tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",综合台
+#EXTINF:-1 tvg-id="台视综合台" tvg-name="台视综合台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",台视综合台
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=ttvzhonghe
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",三立台湾
 https://live.catvod.com/live.php?token=172da5c5bc70b3ed3d5f22ababca7ec9677831a5739214aca0b11138a9611d83&id=sanlitaiwan
