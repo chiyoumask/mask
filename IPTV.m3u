@@ -156,9 +156,9 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="TVB新闻" tvg-name="TVB新闻台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",TVB新闻
+#EXTINF:-1 tvg-id="TVB新闻" tvg-name="TVB新闻台" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/TVBS.png" group-title="台湾",TVB新闻
 https://live.catvod.com/live.php?token=32a78c4a4f4d558fc89b5cc64e9fa533039ec1d5293b3b915768ccc9f3114c81&id=tvbs_n
-#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",东森新闻
+#EXTINF:-1 tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB-light.png" group-title="台湾",东森新闻
 https://live.catvod.com/live.php?token=32a78c4a4f4d558fc89b5cc64e9fa533039ec1d5293b3b915768ccc9f3114c81&id=ettvnews
 #EXTINF:-1 tvg-id="年代新聞" tvg-name="年代新聞" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="台湾",年代新聞
 https://live.catvod.com/live.php?token=32a78c4a4f4d558fc89b5cc64e9fa533039ec1d5293b3b915768ccc9f3114c81&id=niandainews_twn
@@ -230,3 +230,4 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1 tvg-id="USBD420002446" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="体育",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
+
