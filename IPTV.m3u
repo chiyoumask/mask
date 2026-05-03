@@ -172,12 +172,12 @@ http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/30063/index.m3u8
 https://d3b6q2ou5kp8ke.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/aab88f58-adb6-4466-aceb-3b71a6f23411/4.m3u8
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/500px-ACC_Network_ESPN_logo.svg.png" group-title="体育",ACC Network
 http://23.239.31.26:8989/accnetwork/index.m3u8
-#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="体育",SEC Network
-http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/500px-CBS_Sports_Network_2021.svg.png" group-title="体育",CBS Sports Network
-http://snowbank.houseinventer.com/7007/index.m3u8?token=c0lTeGc1M0gydFNjcloydGZhbTFsY1RYMkphdG5OcXdxNHpMeGFYWW5ZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
-#EXTINF:-1 tvg-id="USBD420002446" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="体育",NBC Sports NOW
-https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/9ed59304-2f35-4c88-9b99-34153edef42b/4.m3u8
+#EXTINF:-1 tvg-id="SEC.Network.HD.us2" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="体育",Elta体育1台
+https://live.catvod.com/?id=L2xyL2RMUU9uUG1saldxODZDc2xwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWY4N2ExMGMzJmNuPTlhNzFjNzg3JmNwPWY4Y2MyMWMwJmN1PTRiNmE1OTZmJnJwPWRMZDRkUDk0ZExkMmpMVGxuRg&tk=6759a8f65e7035b71b11e5478c66f764
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-name="CBS Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/500px-CBS_Sports_Network_2021.svg.png" group-title="体育",Elta体育2台
+https://live.catvod.com/?id=L2xyL2RMUU9uUG1saldxODZDc2xwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWY4N2ExMGMzJmNuPTlhNzFjNzg3JmNwPWQ5NDk2NjBhJmN1PTRiNmE1OTZmJnJwPWRMZDRkUDk0ZExkMmpMVGxuRg&tk=6759a8f65e7035b71b11e5478c66f764
+#EXTINF:-1 tvg-id="USBD420002446" tvg-name="NBC Sports NOW" tvg-logo="https://image.xumo.com/v1/channels/channel/99951253/168x168.png?type=color_onBlack" group-title="体育",Elta体育3台
+https://live.catvod.com/?id=L2xyL2RMUU9uUG1saldxODZDc2xwQ2Y3NkVuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPWY4N2ExMGMzJmNuPTlhNzFjNzg3JmNwPThjY2JhNTYxJmN1PTRiNmE1OTZmJnJwPWRMZDRkUDk0ZExkMmpMVGxuRg&tk=6759a8f65e7035b71b11e5478c66f764
 #EXTINF:-1 tvg-name="TVBS新聞", group-title="台湾",TVBS新聞
 https://live.catvod.com/?id=L2xyL2RMUU9uUG1sak5TV1FjbmJWcmZPVkNzSVZDZWw2aUlNZE4waHxjZD1mODdhMTBjMyZjbj05YTcxYzc4NyZjcD02OWI3ZjVkNyZjdT00YjZhNTk2ZiZycD1kTGQ0ZFA5NGRMZDJqTFRsbkY&tk=6759a8f65e7035b71b11e5478c66f764
 #EXTINF:-1 tvg-name="東森新聞", group-title="台湾",東森新聞
