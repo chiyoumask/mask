@@ -10,7 +10,9 @@
       "repository": "https://github.com/zhumengling/codex-token-usage",
       "releases": {
         "linux/amd64": "https://ghproxy.net/https://github.com/zhumengling/codex-token-usage/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_amd64.zip",
-        "darwin/arm64": "https://ghproxy.net/https://github.com/zhumengling/codex-token-usage/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_arm64.zip"
+        "linux/arm64": "https://ghproxy.net/https://github.com/zhumengling/codex-token-usage/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_amd64.zip",
+        "darwin/arm64": "https://ghproxy.net/https://github.com/zhumengling/codex-token-usage/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_arm64.zip",
+        "windows/amd64": "https://ghproxy.net/https://github.com/zhumengling/codex-token-usage/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_amd64.zip"
       }
     }
   ]
