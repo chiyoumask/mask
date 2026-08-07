@@ -1,4 +1,5 @@
 {
+  "schema_version": 1,
   "plugins": [
     {
       "id": "codex-token-usage",
@@ -7,9 +8,6 @@
       "repository": "https://ghfast.top",
       "releases": {
         "linux/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_amd64.zip",
-        "linux/arm64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_arm64.zip",
-        "windows/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_windows_amd64.zip",
-        "darwin/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_amd64.zip",
         "darwin/arm64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_arm64.zip"
       }
     }
