@@ -7,7 +7,10 @@
       "repository": "https://ghfast.top",
       "releases": {
         "linux/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_amd64.zip",
-        // ... 其他平台使用类似加速链接
+        "linux/arm64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_arm64.zip",
+        "windows/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_windows_amd64.zip",
+        "darwin/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_amd64.zip",
+        "darwin/arm64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_arm64.zip"
       }
     }
   ]
