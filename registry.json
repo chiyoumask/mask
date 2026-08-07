@@ -4,8 +4,10 @@
     {
       "id": "codex-token-usage",
       "name": "CPA Token Usage",
-      "version": "0.1.42",
-      "repository": "https://ghfast.top",
+      "description": "Add a plugin description here.",
+      "author": "YourName",
+      "version": "1.0.0",
+      "repository": "Your Repository URL",
       "releases": {
         "linux/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_amd64.zip",
         "darwin/arm64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_arm64.zip"
