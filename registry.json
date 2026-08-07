@@ -5,9 +5,9 @@
       "id": "codex-token-usage",
       "name": "CPA Token Usage",
       "description": "Add a plugin description here.",
-      "author": "YourName",
+      "author": "zhumengling",
       "version": "1.0.0",
-      "repository": "Your Repository URL",
+      "repository": "https://github.com/chiyoumask/codex-token-usage",
       "releases": {
         "linux/amd64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_linux_amd64.zip",
         "darwin/arm64": "https://ghfast.top/releases/download/v0.1.42/codex-token-usage_0.1.42_darwin_arm64.zip"
