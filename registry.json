@@ -2,8 +2,8 @@
   "schema_version": 1,
   "plugins": [
     {
-      "id": "codex-token-usage",
-      "name": "CPA Token Usage",
+      "id": "cpa-key-billing",
+      "name": "CPA Key Billing",
       "description": "CPA Key Billing.",
       "author": "haowang02",
       "version": "1.1.3",
