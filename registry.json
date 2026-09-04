@@ -4,13 +4,13 @@
     {
       "id": "codex-token-usage",
       "name": "CPA Token Usage",
-      "description": "Add a plugin description here.",
-      "author": "zhumengling",
-      "version": "1.0.1",
-      "repository": "https://github.com/zhumengling/codex-token-usage",
+      "description": "CPA Key Billing.",
+      "author": "haowang02",
+      "version": "1.1.3",
+      "repository": "https://github.com/haowang02/cpa-plugin-key-billing",
       "releases": {
-        "linux/amd64": "https://bt.myhotpot.cn/down/khZPjoYzg5PD.zip",
-        "linux/arm64": "https://bt.myhotpot.cn/down/izK3q6a373ds.zip"
+        "linux/amd64": "https://github.com/haowang02/cpa-plugin-key-billing/releases/download/v1.1.3/cpa-key-billing_1.1.3_linux_amd64.zip",
+        "linux/arm64": "https://github.com/haowang02/cpa-plugin-key-billing/releases/download/v1.1.3/cpa-key-billing_1.1.3_linux_arm64.zip"
       }
     }
   ]
