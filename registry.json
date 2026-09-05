@@ -6,11 +6,11 @@
       "name": "CPA Key Billing",
       "description": "CPA Key Billing.",
       "author": "haowang02",
-      "version": "1.1.3",
+      "version": "1.2.3",
       "repository": "https://github.com/haowang02/cpa-plugin-key-billing",
       "releases": {
-        "linux/amd64": "https://github.com/haowang02/cpa-plugin-key-billing/releases/download/v1.1.3/cpa-key-billing_1.1.3_linux_amd64.zip",
-        "linux/arm64": "https://github.com/haowang02/cpa-plugin-key-billing/releases/download/v1.1.3/cpa-key-billing_1.1.3_linux_arm64.zip"
+        "linux/amd64": "https://github.com/haowang02/cpa-plugin-key-billing/releases/download/v1.1.3/cpa-key-billing_1.2.3_linux_amd64.zip",
+        "linux/arm64": "https://github.com/haowang02/cpa-plugin-key-billing/releases/download/v1.1.3/cpa-key-billing_1.2.3_linux_arm64.zip"
       }
     }
   ]
