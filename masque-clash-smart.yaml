@@ -998,16 +998,16 @@ rules:
   - DOMAIN,ipinfo.io,出口检测
   - DOMAIN,www.cloudflare.com,出口检测
 
-  # ChatGPT / OpenAI 独立出口：DIRECT
-  - DOMAIN-SUFFIX,chatgpt.com,DIRECT
-  - DOMAIN-SUFFIX,openai.com,DIRECT
-  - DOMAIN-SUFFIX,oaistatic.com,DIRECT
-  - DOMAIN-SUFFIX,oaiusercontent.com,DIRECT
-  - DOMAIN-SUFFIX,oaistatsig.com,DIRECT
-  - DOMAIN-SUFFIX,openaimerge.com,DIRECT
-  - DOMAIN-SUFFIX,workos.com,DIRECT
-  - DOMAIN-SUFFIX,workoscdn.com,DIRECT
-  - DOMAIN,challenges.cloudflare.com,DIRECT
+  # ChatGPT / OpenAI 独立出口：AI
+  - DOMAIN-SUFFIX,chatgpt.com,AI
+  - DOMAIN-SUFFIX,openai.com,AI
+  - DOMAIN-SUFFIX,oaistatic.com,AI
+  - DOMAIN-SUFFIX,oaiusercontent.com,AI
+  - DOMAIN-SUFFIX,oaistatsig.com,AI
+  - DOMAIN-SUFFIX,openaimerge.com,AI
+  - DOMAIN-SUFFIX,workos.com,AI
+  - DOMAIN-SUFFIX,workoscdn.com,AI
+  - DOMAIN,challenges.cloudflare.com,AI
 
   # 其它 AI 服务：AI
   # 国内 / 私网
