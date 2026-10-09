@@ -20,7 +20,7 @@ proxies:
   - name: "USVIP02"
     type: vless
     server: vps.yoe.de5.net
-    port: 443
+    port: 45371
     uuid: 7b8af9f8-6d83-4f43-a523-50f69ac711ec
     tls: true
     sni: vps.yoe.de5.net
