@@ -7,7 +7,6 @@ external-controller: 127.0.0.1:9090
 
 proxies:
   - {name: "USVIP01", server: vps.yoe.de5.net, port: 25282, type: trojan, password: "Trojan@Zhou_2026", tls: true, sni: vps.yoe.de5.net, skip-cert-verify: true, client-fingerprint: chrome, udp: true}
-  - {name: "USVIP02", server: "vps.yoe.de5.net", port: 45371, type: vless, uuid: 7b8af9f8-6d83-4f43-a523-50f69ac711ec, tls: true, sni: vps.yoe.de5.net, client-fingerprint: chrome, alpn: [h2, http/1.1], network: ws, ws-opts: {path: "/", headers: {Host: vps.yoe.de5.net}}, udp: true}
   - {name: "🇹🇼台湾1-GPT", server: zhilegelian2.bpca2026.top, port: 443, type: trojan, password: 561aa4d9-ffb3-4ee3-bec0-b4158b29915b, tls: true, sni: zhilegelian2.bpca2026.top, client-fingerprint: safari, network: ws, ws-opts: {path: "/images", headers: {Host: zhilegelian2.bpca2026.top}}, udp: true}
   - {name: "🇹🇼台湾2-Gemini", server: t2w2t2w2.bpca2026.top, port: 443, type: trojan, password: 561aa4d9-ffb3-4ee3-bec0-b4158b29915b, tls: true, sni: t2w2t2w2.bpca2026.top, client-fingerprint: safari, network: ws, ws-opts: {path: "/images", headers: {Host: t2w2t2w2.bpca2026.top}}, udp: true}
   - {name: "🇹🇼台湾3-百度AI", server: ttww11.bpca2026.top, port: 443, type: trojan, password: 561aa4d9-ffb3-4ee3-bec0-b4158b29915b, tls: true, sni: ttww11.bpca2026.top, client-fingerprint: safari, network: ws, ws-opts: {path: "/images", headers: {Host: ttww11.bpca2026.top}}, udp: true}
