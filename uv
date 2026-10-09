@@ -17,19 +17,29 @@ proxies:
     client-fingerprint: chrome
     udp: true
 
-  - name: "USVIP02"
+  - name: "🇺🇸 US 202"
     type: vless
     server: vps.yoe.de5.net
     port: 45371
     uuid: 7b8af9f8-6d83-4f43-a523-50f69ac711ec
     tls: true
     sni: vps.yoe.de5.net
-    client-fingerprint: chrome
+    skip-cert-verify: true
     network: ws
     ws-opts:
       path: "/"
       headers:
         Host: vps.yoe.de5.net
+    udp: true
+
+  - name: "🇯🇵 JP 001"
+    type: http
+    server: 118.184.157.67
+    port: 1443
+    username: ""
+    password: ""
+    tls: true
+    skip-cert-verify: true
     udp: true
 
   - name: "🇹🇼台湾1-GPT"
@@ -97,7 +107,8 @@ proxy-groups:
     type: select
     proxies:
       - "USVIP01"
-      - "USVIP02"
+      - "🇺🇸 US 202"
+      - "🇯🇵 JP 001"
       - "🇹🇼台湾1-GPT"
       - "🇹🇼台湾2-Gemini"
       - "🇹🇼台湾3-百度AI"
