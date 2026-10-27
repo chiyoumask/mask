@@ -1,7 +1,3 @@
-# Clash Meta (mihomo) 配置文件
-# 由 8 个节点链接转换生成：3 个 anytls + 5 个 vless（含 4 个 reality）
-# 导入方式：Clash Meta / mihomo 内核客户端 → 配置文件导入
-
 port: 7890
 socks-port: 7891
 allow-lan: false
