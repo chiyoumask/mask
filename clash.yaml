@@ -1,0 +1,153 @@
+# Clash Meta (mihomo) 配置文件
+# 由 8 个节点链接转换生成：3 个 anytls + 5 个 vless（含 4 个 reality）
+# 导入方式：Clash Meta / mihomo 内核客户端 → 配置文件导入
+
+port: 7890
+socks-port: 7891
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: false
+external-controller: 127.0.0.1:9090
+
+dns:
+  enable: true
+  ipv6: false
+  default-nameserver:
+    - 223.5.5.5
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://dns.google/dns-query
+
+proxies:
+  - name: "🇺🇸 US 201"
+    type: anytls
+    server: moss.koryo.xyz
+    port: 2053
+    password: "AnyTLS@Zhou_2026"
+    sni: moss.koryo.xyz
+    skip-cert-verify: true
+    udp: true
+
+  - name: "🇺🇸 US 202"
+    type: vless
+    server: 23.95.220.210
+    port: 2096
+    uuid: c0dd0217-cbb7-4885-8a53-b0ab0c7d4629
+    network: tcp
+    tls: true
+    servername: gateway.icloud.com
+    reality-opts:
+      public-key: ALTPNpISONtFjt1-FX-tQ9Ejh85QGhfp5MbOcCaNZqRE
+      short-id: a35c3611bf837b0c
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇺🇸 US 203"
+    type: anytls
+    server: panel.koryo.xyz
+    port: 2083
+    password: "AnyTLS@Zhou_2026"
+    sni: panel.koryo.xyz
+    skip-cert-verify: true
+    udp: true
+
+  - name: "🇺🇸 US 204"
+    type: vless
+    server: 66.154.106.135
+    port: 2087
+    uuid: 8f8f0de3-dedd-4391-aff8-ce54d118c0e5
+    network: tcp
+    tls: true
+    servername: gateway.icloud.com
+    reality-opts:
+      public-key: EqIw6UtpWAf8E_72nwjPKU8vnZB6i4VoShR3AU83GTs
+      short-id: 8010730e553dbc36
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇺🇸 US 205"
+    type: anytls
+    server: cloud.koryo.xyz
+    port: 2083
+    password: "AnyTLS@Zhou_2026"
+    sni: panel.cloud.koryo.xyz
+    skip-cert-verify: true
+    udp: true
+
+  - name: "🇺🇸 US 206"
+    type: vless
+    server: 172.245.244.42
+    port: 2087
+    uuid: 3d1d7639-ede3-4dfa-8f40-4c5338976461
+    network: tcp
+    tls: true
+    servername: gateway.icloud.com
+    reality-opts:
+      public-key: DpzOHunfFQWgZkc_f44vAxcVF6Um5YkEFg-2IFet0Q
+      short-id: c63d30562efac2a8
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇰🇷 KR 0001"
+    type: vless
+    server: 64.176.232.52
+    port: 42497
+    uuid: "AnyTLS@Zhou_2026"
+    network: tcp
+    tls: true
+    servername: panel.michat.pdpns.org
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇰🇷 KR 0002"
+    type: vless
+    server: 64.176.232.52
+    port: 36125
+    uuid: d402eeca-ac2f-4efa-9e50-65b0e76603d
+    network: tcp
+    tls: true
+    servername: gateway.icloud.com
+    reality-opts:
+      public-key: EDsjZYtuoaXEZKUcooSOIMD5G3q1D5aQyC12DFGnFEU
+      short-id: df7d3555762d19c6
+    flow: xtls-rprx-vision
+    client-fingerprint: chrome
+    udp: true
+
+proxy-groups:
+  - name: "🚀 节点选择"
+    type: select
+    proxies:
+      - "♻️ 自动选择"
+      - "🇺🇸 US 201"
+      - "🇺🇸 US 202"
+      - "🇺🇸 US 203"
+      - "🇺🇸 US 204"
+      - "🇺🇸 US 205"
+      - "🇺🇸 US 206"
+      - "🇰🇷 KR 0001"
+      - "🇰🇷 KR 0002"
+
+  - name: "♻️ 自动选择"
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "🇺🇸 US 201"
+      - "🇺🇸 US 202"
+      - "🇺🇸 US 203"
+      - "🇺🇸 US 204"
+      - "🇺🇸 US 205"
+      - "🇺🇸 US 206"
+      - "🇰🇷 KR 0001"
+      - "🇰🇷 KR 0002"
+
+rules:
+  - GEOIP,PRIVATE,DIRECT,no-resolve
+  - MATCH,🚀 节点选择
