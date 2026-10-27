@@ -89,7 +89,7 @@ proxies:
     client-fingerprint: chrome
     udp: true
 
-  - name: "🇰🇷 KR 0001"
+  - name: "🇰🇷 KR 001"
     type: vless
     server: 64.176.232.52
     port: 42497
@@ -100,7 +100,7 @@ proxies:
     client-fingerprint: chrome
     udp: true
 
-  - name: "🇰🇷 KR 0002"
+  - name: "🇰🇷 KR 002"
     type: vless
     server: 64.176.232.52
     port: 36125
@@ -141,8 +141,8 @@ proxy-groups:
       - "🇺🇸 US 204"
       - "🇺🇸 US 205"
       - "🇺🇸 US 206"
-      - "🇰🇷 KR 0001"
-      - "🇰🇷 KR 0002"
+      - "🇰🇷 KR 001"
+      - "🇰🇷 KR 002"
 
 rules:
   - GEOIP,PRIVATE,DIRECT,no-resolve
