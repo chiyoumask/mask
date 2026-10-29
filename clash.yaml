@@ -1,0 +1,182 @@
+# Clash Meta (mihomo) 手机专属配置文件
+# 包含 8 个自建极速节点（AnyTLS + Hysteria 2 + VLESS-Reality）
+# 适用客户端：Clash Meta for Android / Flclash / Clash Verge / Loon / Shadowrocket
+
+port: 7890
+socks-port: 7891
+mixed-port: 7890
+allow-lan: false
+mode: rule
+log-level: info
+ipv6: false
+unified-delay: true
+external-controller: 127.0.0.1:9090
+
+# 针对移动端优化 DNS 与连接嗅探
+sniffer:
+  enable: true
+  parse-pure-ip: true
+  sniff:
+    TLS:
+      ports: [443, 8443]
+    HTTP:
+      ports: [80, 8080]
+
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver:
+    - 223.5.5.5
+    - 119.29.29.29
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.1.1.1/dns-query
+    - https://dns.google/dns-query
+
+proxies:
+  - name: "🇺🇸 US 201"
+    type: anytls
+    server: 23.95.220.210
+    port: 28531
+    password: "AnyTLS@Zhou_2026"
+    sni: moss.koryo.xyz
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇺🇸 US 202"
+    type: vless
+    server: 23.95.220.210
+    port: 28961
+    uuid: c0dd0217-cbb7-4885-8a53-b0ab0c744629
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    packet-encoding: xudp
+    servername: swdist.apple.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: "ALTPNpISOtFjt1-FX-qT9Ejh85IGhfp5MbOcCanZaRE"
+      short-id: "a35c3611bf837b0d"
+
+  - name: "🇺🇸 US 203"
+    type: anytls
+    server: 66.154.106.135
+    port: 28383
+    password: "AnyTLS@Zhou_2026"
+    sni: panel.koryo.xyz
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇺🇸 US 207"
+    type: hysteria2
+    server: 66.154.106.135
+    port: 28888
+    password: "AnyTLS@Zhou_2026"
+    sni: panel.koryo.xyz
+    skip-cert-verify: true
+    fast-open: true
+
+  - name: "🇺🇸 US 205"
+    type: anytls
+    server: 172.245.244.42
+    port: 28385
+    password: "AnyTLS@Zhou_2026"
+    sni: cloud.koryo.xyz
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇺🇸 US 206"
+    type: vless
+    server: 172.245.244.42
+    port: 28785
+    uuid: 3d1d7639-ede3-4dba-8f40-4c9338976461
+    network: tcp
+    tls: true
+    udp: true
+    flow: xtls-rprx-vision
+    packet-encoding: xudp
+    servername: swdist.apple.com
+    client-fingerprint: chrome
+    reality-opts:
+      public-key: "DpzO8unfFPXgZkc_f44vAxcVF1EVm5YkEFG-2IFeu0Q"
+      short-id: "c63d30562efac2a8"
+
+  - name: "🇰🇷 KR 001"
+    type: anytls
+    server: 64.176.232.52
+    port: 42497
+    password: "AnyTLS@Zhou_2026"
+    sni: panel.michat.dpdns.org
+    skip-cert-verify: true
+    client-fingerprint: chrome
+    udp: true
+
+  - name: "🇰🇷 KR 002"
+    type: hysteria2
+    server: 64.176.232.52
+    port: 36125
+    password: "AnyTLS@Zhou_2026"
+    sni: panel.michat.dpdns.org
+    skip-cert-verify: true
+    fast-open: true
+
+proxy-groups:
+  - name: "🚀 节点选择"
+    type: select
+    proxies:
+      - "⚡ 自动优选"
+      - "🇺🇸 美国节点"
+      - "🇰🇷 韩国节点"
+      - "🇺🇸 US 201"
+      - "🇺🇸 US 202"
+      - "🇺🇸 US 203"
+      - "🇺🇸 US 207"
+      - "🇺🇸 US 205"
+      - "🇺🇸 US 206"
+      - "🇰🇷 KR 001"
+      - "🇰🇷 KR 002"
+      - "DIRECT"
+
+  - name: "⚡ 自动优选"
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    proxies:
+      - "🇺🇸 US 201"
+      - "🇺🇸 US 202"
+      - "🇺🇸 US 203"
+      - "🇺🇸 US 207"
+      - "🇺🇸 US 205"
+      - "🇺🇸 US 206"
+      - "🇰🇷 KR 001"
+      - "🇰🇷 KR 002"
+
+  - name: "🇺🇸 美国节点"
+    type: select
+    proxies:
+      - "🇺🇸 US 207"
+      - "🇺🇸 US 203"
+      - "🇺🇸 US 201"
+      - "🇺🇸 US 202"
+      - "🇺🇸 US 205"
+      - "🇺🇸 US 206"
+
+  - name: "🇰🇷 韩国节点"
+    type: select
+    proxies:
+      - "🇰🇷 KR 002"
+      - "🇰🇷 KR 001"
+
+rules:
+  - GEOIP,LAN,DIRECT,no-resolve
+  - GEOIP,CN,DIRECT
+  - MATCH,🚀 节点选择
